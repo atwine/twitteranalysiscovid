@@ -1,6 +1,4 @@
-./Data/
-./Final Report/dt/
-./Lexicon-Based-Sentiment-Analysis/
-./OptimizedGetOldTweets/
-./TwitterAPIV2/
-./Twity/Data/
+Data/
+Final Report/dt/
+Twity/Data/
+Final Report/IndiaData2csv/dt/
